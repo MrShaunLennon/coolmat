@@ -43,6 +43,12 @@ body {
 .language-select {
   text-align: right;
   font-size: 12px;
+  text-decoration: none;
+}
+
+.language-select a {
+  text-decoration: none;
+  color: #000;
 }
 
 .hero {
